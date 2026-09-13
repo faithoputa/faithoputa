@@ -85,9 +85,9 @@ I build practical software that makes people and businesses faster — from AI-p
 ## 🤝 Let's connect
 
 <div align="center">
-  <a href="https://github.com/faithoputa"><img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Visit GitHub profile" /></a>
-  <a href="https://twitter.com/faith_oputa2"><img src="https://img.shields.io/badge/X-Follow_Me-111827?style=for-the-badge&labelColor=0D1117&logo=x&logoColor=white" alt="Follow on X" /></a>
-  <a href="https://github.com/faithoputa?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow-10B981?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+  <a href="https://github.com/faithoputa"><img src="https://img.shields.io/badge/GitHub-Visit_Profile-9D00FF?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=FFE600" alt="Visit GitHub profile" /></a>
+  <a href="https://twitter.com/faith_oputa2"><img src="https://img.shields.io/badge/X-Follow_Me-FF1493?style=for-the-badge&labelColor=0D1117&logo=x&logoColor=FFE600" alt="Follow on X" /></a>
+  <a href="https://github.com/faithoputa?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow-39FF14?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=0D1117" alt="Follow on GitHub" /></a>
 </div>
 
 <br />
