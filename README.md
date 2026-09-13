@@ -1,16 +1,97 @@
-## Hi there 👋
+<!-- Profile README for faithoputa -->
+<div align="center">
 
-<!--
-**faithoputa/faithoputa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm **Dutchcoder**
 
-Here are some ideas to get you started:
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Automation+%26+Full-Stack+Developer;Building+useful+AI-powered+tools;Turning+repetitive+work+into+smart+workflows" alt="Typing SVG" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/faithoputa?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repos-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+  <a href="https://github.com/faithoputa/ai-operations-dashboard"><img src="https://img.shields.io/badge/See_My_Latest_Build-06B6D4?style=for-the-badge&logo=rocket&logoColor=white" alt="See my latest build" /></a>
+  <a href="https://twitter.com/faith_oputa2"><img src="https://img.shields.io/badge/Connect_on_X-111827?style=for-the-badge&logo=x&logoColor=white" alt="Connect on X" /></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=faithoputa&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" />
+
+</div>
+
+---
+
+## 🚀 About me
+
+I build practical software that makes people and businesses faster — from AI-powered dashboards to automated customer support and warehouse workflows.
+
+- 🔭 Currently building **AI operations and workflow automation tools**
+- 🤖 Exploring **AI agents, n8n, APIs, and intelligent business systems**
+- 🧩 Comfortable moving between **Python, TypeScript, JavaScript, and C**
+- ⚡ I like turning manual processes into reliable, repeatable systems
+- 🤝 Open to useful collaborations, interesting products, and ambitious experiments
+
+## 🧰 Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111827" alt="C" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+## 🔥 Featured builds
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">AI Operations Dashboard</h3>
+      <p align="center">AI-powered business operations automation dashboard.</p>
+      <p align="center"><a href="https://github.com/faithoputa/ai-operations-dashboard"><img src="https://img.shields.io/badge/Open_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Open AI operations dashboard" /></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">AI Customer Support</h3>
+      <p align="center">Automated customer support built with n8n and OpenAI.</p>
+      <p align="center"><a href="https://github.com/faithoputa/ai-customer-support-automation"><img src="https://img.shields.io/badge/Open_Project-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Open AI customer support automation" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Warehouse Automation</h3>
+      <p align="center">Workflow automation for orders, booked orders, data storage, and weekly notifications.</p>
+      <p align="center"><a href="https://github.com/faithoputa/n8n-company-warehouse-automation"><img src="https://img.shields.io/badge/Open_Project-F59E0B?style=for-the-badge&logo=github&logoColor=111827" alt="Open warehouse automation" /></a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Explore everything</h3>
+      <p align="center">Browse the full collection of experiments, systems, and learning projects.</p>
+      <p align="center"><a href="https://github.com/faithoputa?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a></p>
+    </td>
+  </tr>
+</table>
+
+## 📊 GitHub at a glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faithoputa&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Dutchcoder's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithoputa&layout=compact&hide_border=true&theme=tokyonight" alt="Dutchcoder's top languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=faithoputa&theme=tokyonight&hide_border=true" alt="Dutchcoder's GitHub streak" />
+</div>
+
+## 🤝 Let's connect
+
+<div align="center">
+  <a href="https://github.com/faithoputa"><img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub profile" /></a>
+  <a href="https://twitter.com/faith_oputa2"><img src="https://img.shields.io/badge/X-Follow_Me-111827?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
+  <a href="https://github.com/faithoputa?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <i>Build useful things. Automate the boring parts. Keep learning.</i>
+</div>
