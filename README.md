@@ -3,15 +3,15 @@
 
 # 👋 Hi, I'm **Faith Oputa**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Automation+%26+Full-Stack+Developer;Building+useful+AI-powered+tools;Turning+repetitive+work+into+smart+workflows" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=620&lines=Automation+%26+Full-Stack+Developer;Building+useful+AI-powered+tools;Turning+repetitive+work+into+smart+workflows" alt="Typing SVG" /></a>
 
 <p>
-  <a href="https://github.com/faithoputa?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repos-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
-  <a href="https://github.com/faithoputa/ai-operations-dashboard"><img src="https://img.shields.io/badge/See_My_Latest_Build-06B6D4?style=for-the-badge&logo=rocket&logoColor=white" alt="See my latest build" /></a>
+  <a href="https://github.com/faithoputa?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repos-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+  <a href="https://github.com/faithoputa/ai-operations-dashboard"><img src="https://img.shields.io/badge/See_My_Latest_Build-D4AF37?style=for-the-badge&logo=rocket&logoColor=white" alt="See my latest build" /></a>
   <a href="https://twitter.com/faith_oputa2"><img src="https://img.shields.io/badge/Connect_on_X-111827?style=for-the-badge&logo=x&logoColor=white" alt="Connect on X" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=faithoputa&label=Profile%20views&color=7C3AED&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=faithoputa&label=Profile%20views&color=10B981&style=flat-square" alt="Profile views" />
 
 </div>
 
@@ -49,24 +49,24 @@ I build practical software that makes people and businesses faster — from AI-p
     <td width="50%">
       <h3 align="center">AI Operations Dashboard</h3>
       <p align="center">AI-powered business operations automation dashboard.</p>
-      <p align="center"><a href="https://github.com/faithoputa/ai-operations-dashboard"><img src="https://img.shields.io/badge/Open_Project-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Open AI operations dashboard" /></a></p>
+      <p align="center"><a href="https://github.com/faithoputa/ai-operations-dashboard"><img src="https://img.shields.io/badge/Open_Project-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Open AI operations dashboard" /></a></p>
     </td>
     <td width="50%">
       <h3 align="center">AI Customer Support</h3>
       <p align="center">Automated customer support built with n8n and OpenAI.</p>
-      <p align="center"><a href="https://github.com/faithoputa/ai-customer-support-automation"><img src="https://img.shields.io/badge/Open_Project-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="Open AI customer support automation" /></a></p>
+      <p align="center"><a href="https://github.com/faithoputa/ai-customer-support-automation"><img src="https://img.shields.io/badge/Open_Project-D4AF37?style=for-the-badge&logo=github&logoColor=white" alt="Open AI customer support automation" /></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center">Warehouse Automation</h3>
       <p align="center">Workflow automation for orders, booked orders, data storage, and weekly notifications.</p>
-      <p align="center"><a href="https://github.com/faithoputa/n8n-company-warehouse-automation"><img src="https://img.shields.io/badge/Open_Project-F59E0B?style=for-the-badge&logo=github&logoColor=111827" alt="Open warehouse automation" /></a></p>
+      <p align="center"><a href="https://github.com/faithoputa/n8n-company-warehouse-automation"><img src="https://img.shields.io/badge/Open_Project-D4AF37?style=for-the-badge&logo=github&logoColor=111827" alt="Open warehouse automation" /></a></p>
     </td>
     <td width="50%">
       <h3 align="center">Explore everything</h3>
       <p align="center">Browse the full collection of experiments, systems, and learning projects.</p>
-      <p align="center"><a href="https://github.com/faithoputa?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-EC4899?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a></p>
+      <p align="center"><a href="https://github.com/faithoputa?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-10B981?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories" /></a></p>
     </td>
   </tr>
 </table>
@@ -74,12 +74,12 @@ I build practical software that makes people and businesses faster — from AI-p
 ## 📊 GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faithoputa&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Dutchcoder's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithoputa&layout=compact&hide_border=true&theme=tokyonight" alt="Dutchcoder's top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=faithoputa&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=10B981&icon_color=D4AF37&text_color=F3F4F6&border_color=D4AF37" alt="Dutchcoder's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faithoputa&layout=compact&hide_border=true&bg_color=0D1117&title_color=10B981&icon_color=D4AF37&text_color=F3F4F6&border_color=D4AF37" alt="Dutchcoder's top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=faithoputa&theme=tokyonight&hide_border=true" alt="Dutchcoder's GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=faithoputa&hide_border=true&background=0D1117&ring=10B981&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=10B981&currStreakNum=F3F4F6&sideNums=F3F4F6&dates=94A3B8&border=D4AF37" alt="Dutchcoder's GitHub streak" />
 </div>
 
 ## 🤝 Let's connect
@@ -87,7 +87,7 @@ I build practical software that makes people and businesses faster — from AI-p
 <div align="center">
   <a href="https://github.com/faithoputa"><img src="https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub profile" /></a>
   <a href="https://twitter.com/faith_oputa2"><img src="https://img.shields.io/badge/X-Follow_Me-111827?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
-  <a href="https://github.com/faithoputa?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
+  <a href="https://github.com/faithoputa?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow-10B981?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 </div>
 
 <br />
