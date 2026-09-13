@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm **Faith Oputa**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Majesty&weight=600&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=620&lines=Automation+%26+Full-Stack+Developer;Building+useful+AI-powered+tools;Turning+repetitive+work+into+smart+workflows" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=620&lines=Automation+%26+Full-Stack+Developer;Building+useful+AI-powered+tools;Turning+repetitive+work+into+smart+workflows" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://github.com/faithoputa?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repos-10B981?style=for-the-badge&labelColor=0D1117&logo=github&logoColor=white" alt="Explore my repositories" /></a>
