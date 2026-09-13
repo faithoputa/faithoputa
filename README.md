@@ -1,7 +1,7 @@
 <!-- Profile README for faithoputa -->
 <div align="center">
 
-# 👋 Hi, I'm **Dutchcoder**
+# 👋 Hi, I'm **FAith Oputa**
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Automation+%26+Full-Stack+Developer;Building+useful+AI-powered+tools;Turning+repetitive+work+into+smart+workflows" alt="Typing SVG" /></a>
 
